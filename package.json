@@ -1,0 +1,13 @@
+{
+  "name": "midjourney-admin",
+  "version": "1.0.0",
+  "description": "Midjourney Admin Interface",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+} 
